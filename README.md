@@ -1,6 +1,6 @@
 # hehehehhe
 
-#my stats(they are pathetic):
+my stats(they are pathetic):
 
 
 [![](https://raw.githubusercontent.com/Smritirai005/smriti/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
