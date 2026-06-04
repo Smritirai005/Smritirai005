@@ -3,7 +3,29 @@
 my stats(they are pathetic):
 
 
-[![](https://raw.githubusercontent.com/Smritirai005/smriti/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Smritirai005/smriti/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Smritirai005/smriti/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Smritirai005/smriti/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Smritirai005/smriti/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# Hi, I'm Smriti 👋
+
+🎓 B.Tech 3rd Year Student
+
+💻 Interested in AI, Generative AI, and Full-Stack Development
+
+🚀 Projects:
+- AI Agent using LangChain and LLMs
+- Vector Database & RAG System
+- Full-Stack Web Applications
+
+🛠️ Tech Stack:
+- C++
+- Python
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- LangChain
+- Pinecone/ChromaDB
+- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smritirai005&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smritirai005&layout=compact)
+
 
